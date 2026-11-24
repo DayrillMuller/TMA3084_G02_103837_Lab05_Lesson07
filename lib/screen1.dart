@@ -6,7 +6,7 @@ class Screen1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Center(
-      child: Text('Home', style: TextStyle(fontSize: 28)),
+      child: Text('Home Tab', style: TextStyle(fontSize: 28)),
     );
   }
 }
